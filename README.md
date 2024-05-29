@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
+<p align="left"> <img src="https://github.com/Dinesh123207/Dinesh123207/blob/main/another%20one.png" alt="dinesh123207" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh123207&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh123207" /> </p>
 
 - 🌱 I’m currently learning **WordPress**
