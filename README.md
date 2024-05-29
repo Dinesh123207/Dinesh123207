@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">NodeJs | Backend Developer | Wordpress developer</h6>
+<h6 align="left">NodeJs | Wordpress developer | Backend Developer</h6>
 
 ###
 
