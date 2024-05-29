@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **dineshbindal1155@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C5r-gTgPMN_KeIyfAFDL1RG81MmEbYxX/view?usp=drive_link](https://drive.google.com/file/d/1C5r-gTgPMN_KeIyfAFDL1RG81MmEbYxX/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-kumar-266354226?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b70trhuujsieu8v%2bfjnbn2g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-kumar-266354226?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b70trhuujsieu8v%2bfjnbn2g%3d%3d" height="30" width="40" /></a>
