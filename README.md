@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **WordPress**
 
 - 📫 How to reach me **dineshbindal1155@gmail.com**
+- 🌱  My Personal Website **https://dinesh123207.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
