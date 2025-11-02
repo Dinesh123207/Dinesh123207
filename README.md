@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **dineshbindal1155@gmail.com**
 - 🌱  My Personal Website **https://dinesh123207.github.io/**
-- 🌱  My Wordpress Website **https://dinesh368.wordpress.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
