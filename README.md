@@ -1,54 +1,18 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">Cybersecurity Lead | SOC Operations | Threat Detection & Incident Response</h3>
+# 💫 About Me:
+Cybersecurity professional currently leading critical security operations and directly reporting to the Chief Information Security Officer (CISO). Responsible for monitoring, analyzing, and responding to advanced security threats across enterprise infrastructure. Experienced in working with multiple security platforms including SIEM, endpoint protection, and threat intelligence tools to safeguard organizational assets.<br><br>Skilled in incident detection, threat hunting, vulnerability assessment, and coordinating with IT teams to strengthen the overall security posture. Known for taking ownership of security operations, driving proactive defense strategies, and ensuring rapid response to emerging cyber risks.<br><br>Focused on building resilient security environments and continuously improving organizational cybersecurity maturity.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-kumar-266354226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B70tRHuUJSIeU8v%2BfJnBN2g%3D%3D) 
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dinesh123207&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dinesh123207&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh123207&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Dinesh123207&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔐 Cybersecurity professional currently leading security operations and directly reporting to the Chief Information Security Officer (CISO). I actively monitor, analyze, and respond to security threats across enterprise infrastructure to ensure strong defensive posture.
-
-🛡️ Experienced in SOC monitoring, threat detection, incident response, and security operations using enterprise security tools. Passionate about defending systems, identifying vulnerabilities, and building resilient security environments.
-
-🚀 Focused on cybersecurity research, offensive security, and next-generation security technologies including Web3 security and smart contract auditing.
-
----
-
-### 📫 Contact
-
-📧 Email: **dineshbindal1155@gmail.com**  
-🌐 Website: **https://dinesh123207.github.io/**
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
-
-### ⚡ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,css,js,nodejs,php,python,mysql,git,nginx" />
-</p>
-
----
-
-### 🛡️ Cybersecurity Focus
-
-• Security Operations Center (SOC) Monitoring  
-• Incident Detection & Response  
-• Threat Hunting  
-• Endpoint Security  
-• Network Security  
-• Vulnerability Assessment  
-• Security Automation  
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dinesh123207&show_icons=true&theme=tokyonight" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
